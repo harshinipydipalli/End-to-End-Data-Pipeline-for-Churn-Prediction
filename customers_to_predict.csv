@@ -1,0 +1,8 @@
+﻿customerID,gender_male,Partner,Dependents,tenure,MonthlyCharges,TotalCharges,PhoneService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,PaperlessBilling
+C001,1,1,0,12,70,840,1,0,1,1,0,1,1,1
+C002,0,0,0,3,50,150,1,1,0,0,0,0,0,0
+C003,1,1,1,24,95,2280,1,1,1,1,1,1,1,1
+C004,0,0,1,6,65,390,1,0,0,0,0,0,0,1
+C005,1,1,0,36,120,4320,1,1,1,1,1,1,1,0
+C006,0,1,0,57,58.75,3437.45,0,1,1,1,0,1,1,1
+C007,1,1,1,72,45.25,3139.8,0,1,1,1,1,0,0,0
